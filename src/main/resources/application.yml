@@ -7,4 +7,4 @@ spring:
     username: root
     password: root
   jackson:
-    default-property-inclusion: non_null
+    default-property-inclusion: non_ null
